@@ -6,3 +6,4 @@ https://www.thepythoncode.com/topic/ethical-hacking (projects for ethical hacker
   
 #RESSOURCES DUMP
 https://www.w3schools.com/default.asp (HTML, JS, CSS, and more)
+https://www.instagram.com/direct/t/340282366841710300949128244362696895053 (codeacademy)
