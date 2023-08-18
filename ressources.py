@@ -26,7 +26,13 @@ https://codepen.io/2016/popular/pens/ (codepen)
 https://web-design-weekly.com/ (web design weekly)
 https://digital.com/tools/html-cheatsheet/ (html cheatsheet)
 
-  
+# C
+https://www.tutorialspoint.com/cprogramming/index.htm
+https://www.w3schools.com/c/index.php
+
+# ASSEMBLY
+https://www.tutorialspoint.com/assembly_programming/index.htm
+
 #RESSOURCES DUMP
 https://www.w3schools.com/default.asp (HTML, JS, CSS, and more)
 https://www.instagram.com/direct/t/340282366841710300949128244362696895053 (codeacademy)
